@@ -1,0 +1,8 @@
+newmtl Default-Material
+Kd 1 1 1
+d 1
+
+newmtl secretMaterial
+Kd 0.517 0.517 0.517
+d 1
+
